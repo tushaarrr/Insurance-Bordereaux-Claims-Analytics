@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an Excel-based insurance analytics solution designed for P&C Insurance / Actuarial Data Analyst roles. It converts raw policy and claims data into business-ready insights through data cleaning, KPI reporting, advanced formulas, and dashboard visualization.
+This project is an Excel-based insurance analytics solution. It converts raw policy and claims data into business-ready insights through data cleaning, KPI reporting, advanced formulas, and dashboard visualization.
 
 The goal was to simulate a real-world bordereaux reporting workflow used in insurance operations, pricing, reserving, and portfolio monitoring.
 
